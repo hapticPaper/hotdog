@@ -1,0 +1,6 @@
+flask
+tensorflow-gpu
+tensorboard
+pandas
+opencv-python
+matplotlib
